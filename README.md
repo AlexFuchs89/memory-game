@@ -29,6 +29,3 @@ Match cards in less time with less moves.
 This project is created based on an Udacity starterscode.
 
 Javascript: Shuffle function, DOM, Google fonts, font-awesome
-
-Emojis (unicode): Emojipedia
-
