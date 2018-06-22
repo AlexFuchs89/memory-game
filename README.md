@@ -14,7 +14,7 @@ Match cards in less time with less moves.
 - Click on a card
 - Pick a second card 
 - Remember the uncovered icons displayed
-- Until you match all cards properly 
+- Match all cards properly 
 - Click refresh button and try again with less moves and in faster time.
 
 
@@ -28,4 +28,4 @@ Match cards in less time with less moves.
 
 This project is created based on an Udacity starterscode.
 
-Javascript: Shuffle function, DOM, Google fonts, font-awesome
+Javascript: Shuffle function, Google Coda font, font-awesome
